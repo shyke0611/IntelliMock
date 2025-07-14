@@ -54,7 +54,13 @@
 
 ## Quick Demo Overview
 
-https://github.com/shyke0611/IntelliMock/assets/126353075/60250d84-5b6b-4adc-9240-5a6e4906af67
+https://github.com/user-attachments/assets/bd025656-6f97-416a-80d5-ddf73abbfe16
+
+<br />
+
+**NOTE:** Avatar was not feasible in production (due to free service limitations) so replaced with static image in real application
+
+<br />
 
 <table>
   <tr>
