@@ -54,7 +54,8 @@
 
 ## Quick Demo Overview
 
-https://github.com/user-attachments/assets/bd025656-6f97-416a-80d5-ddf73abbfe16
+<video src="https://github.com/user-attachments/assets/bd025656-6f97-416a-80d5-ddf73abbfe16" controls></video>
+
 
 <br />
 
