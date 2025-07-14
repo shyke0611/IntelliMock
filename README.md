@@ -11,6 +11,10 @@
  <strong>AI-powered mock interview simulator</strong>
  <br />
  <br />
+ <a href="https://intellimock.netlify.app" target="_blank"> Visit Intellimock</a>
+
+
+ <br />
 </p>
 <a href="https://github.com/shyke0611/IntelliMock/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
 ·
@@ -27,6 +31,7 @@
 <details>
  <summary>Table of Contents</summary>
  <ol>
+   <li><a href="#quick-demo-overview">Quick Demo Overview</a>
    <li><a href="#about-the-project">About The Project</a>
      <ul>
        <li><a href="#what-does-this-project-do">What does this project do?</a></li>
@@ -47,8 +52,16 @@
 </details>
 
 
+## Quick Demo Overview
 
+https://github.com/shyke0611/IntelliMock/assets/126353075/60250d84-5b6b-4adc-9240-5a6e4906af67
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/33690e02-5491-45d4-808a-4562616669df" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ea12a171-d3b8-41b9-9bc2-0fe6c1f170c3" width="500"/></td>
+  </tr>
+</table>
 
 
 <!-- ABOUT THE PROJECT -->
