@@ -8,7 +8,7 @@
 </h3>
 
  <p align="center">
- <strong>AI-powered mock interview simulator</strong>
+ <strong>AI-powered mock interview platform</strong>
  <br />
  <br />
  <a href="https://intellimock.netlify.app" target="_blank"> Visit Intellimock</a>
@@ -62,13 +62,12 @@ https://github.com/user-attachments/assets/bd025656-6f97-416a-80d5-ddf73abbfe16
 
 <br />
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/33690e02-5491-45d4-808a-4562616669df" width="500"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ea12a171-d3b8-41b9-9bc2-0fe6c1f170c3" width="500"/></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/33690e02-5491-45d4-808a-4562616669df" style="width: 100%; height: auto;" /></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/ea12a171-d3b8-41b9-9bc2-0fe6c1f170c3" style="width: 100%; height: auto;" /></td>
   </tr>
 </table>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
