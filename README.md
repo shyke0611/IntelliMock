@@ -1,27 +1,22 @@
  <!-- PROJECT SHIELDS -->
-[![Wiki](https://img.shields.io/badge/Wiki-brightgreen.svg?style=for-the-badge)](https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/wiki)
+[![WIKI](https://img.shields.io/badge/Project_Lifecycle-brightgreen.svg?style=for-the-badge)](https://github.com/shyke0611/IntelliMock/wiki)
 
 
 <br />
 <div align="center">
  <h2 align="center">IntelliMock</h2>
- <h3 align="center">CS732 - Team Peach Peacocks
 </h3>
-
-
- <img src="assets/images/team_logo.png" alt="Team Peach Peacocks Logo" width="110"/>
-
 
  <p align="center">
  <strong>AI-powered mock interview simulator</strong>
  <br />
  <br />
 </p>
-<a href="https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+<a href="https://github.com/shyke0611/IntelliMock/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
 ·
-<a href="https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+<a href="https://github.com/shyke0611/IntelliMock/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
 ·
-<a href="https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/issues/new?labels=documentation&template=documentation.md">Documention</a>
+<a href="https://github.com/shyke0611/IntelliMock/issues/new?labels=documentation&template=documentation.md">Documention</a>
 
 
 </div>
@@ -47,7 +42,6 @@
    </li>
    <li><a href="#running-tests">Running Tests</a></li>
    <li><a href="#license">License</a></li>
-   <li><a href="#team-members">Team Members</a></li>
    <li><a href="#acknowledgments">Acknowledgments</a></li>
  </ol>
 </details>
@@ -119,7 +113,7 @@ The core features of IntelliMock include:
 >
 > Subsequent visits will be significantly faster once both services are warmed up.
 
- **[For more information on IntelliMock's Deployment](https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/wiki/Deployment-Information)**
+ **[For more information on IntelliMock's Deployment](https://github.com/shyke0611/IntelliMockwiki/Deployment-Information)**
 
  <br />
  
@@ -169,13 +163,13 @@ The core features of IntelliMock include:
 
 
     ```sh
-   git clone https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks.git
+   git clone https://github.com/shyke0611/IntelliMock.git
     ```
 
 
 2. **Navigate to the project directory**:
     ```sh
-   cd group-project-peach-peacocks
+   cd IntelliMock
     ```
 ### Frontend
 
@@ -186,12 +180,6 @@ The core features of IntelliMock include:
     ```
 4. **Ensure you copy the .env file**
   > A `.env` file is required to run the frontend. 
-  > Place this file in the **root of the `/frontend` folder**, at the same level as `package.json`.
-
-
-  If you're unsure what variables to include, you should have already received the frontend `.env` file from the **Assignment - Private info / API key / etc submission** on Canvas. 
-  If you missed this or need access again, please contact one of the [**team members**](#team-members) listed below via email.
-
 
 5. **Install frontend dependencies**:
 
@@ -229,12 +217,6 @@ The core features of IntelliMock include:
 
 8. **Ensure you copy the .env file**
   > A `.env` file is required to run the backend. 
-  > Place this file in the **root of the `/backend` folder**, at the same level as `pom.xml`.
-
-
-  If you're unsure what variables to include, you should have already received the backend `.env` file from the **Assignment - Private info / API key / etc submission** on Canvas. 
-  If you missed this or need access again, please contact one of the [**team members**](#team-members) listed below via email.
-
 
 9. **Run the Spring Boot backend**:
 
@@ -306,7 +288,7 @@ If it's not installed or the version is outdated, check [Prerequisites](#2-prere
       start target\site\jacoco\index.html   # Windows
       ```
 
-### [find More information on how we tested IntelliMock](https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/wiki/testing)
+### [find More information on how IntelliMock is tested](https://github.com/UOA-CS732-S1-2025/group-project-peach-peacocks/wiki/testing)
 
  <br />
 
@@ -316,21 +298,6 @@ If it's not installed or the version is outdated, check [Prerequisites](#2-prere
 
 
 Distributed under the MIT License. Read more at [MIT License](./LICENSE) for more information.
-
-
-<!-- CONTACTS -->
-## Team Members
-
-
-- Andrew Shin _(hshi270@aucklanduni.ac.nz)_
-- Andy Lee _(klee682@aucklanduni.ac.nz)_
-- Sahan De Silva _(sdes755@aucklanduni.ac.nz)_
-- Shubh Bhargava _(sbha878@aucklanduni.ac.nz)_
-- Ben Weng _(bwen761@aucklanduni.ac.nz)_
-- Hamish Patel _(hpat874@aucklanduni.ac.nz)_
-
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 
